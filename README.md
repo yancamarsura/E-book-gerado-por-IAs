@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="">
+    <img width="100" src="Capa.png">
 </p>
 
 # Projeto E-book gerado por IAs
@@ -13,7 +13,7 @@ Este projeto tem como objetivo desenvolver um e-book educativo e visualmente atr
 O propósito é aprimorar habilidades de escrita, design editorial e estruturação de conteúdo digital, além de servir como exercício prático de organização de projeto, formatação e publicação de materiais informativos.
 
 O e-book aborda conceitos essenciais de forma clara e objetiva, com foco em inspirar e orientar novos empreendedores na criação de seus primeiros negócios online.
-<a href= title="View PDF now"> 📕Clique aqui para ler</a>
+<a href= "https://github.com/yancamarsura/E-book-gerado-por-IAs/blob/main/E-book%20-%20Primeiros%20Passos%20para%20Abrir%20seu%20Neg%C3%B3cio%20Online.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
